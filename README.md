@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a Resident/MS at the **University of Florida** in the College of Veterinary Medicine, Department of Large Clinical Sciences. I’m currently working on simulation models and economic analysis in ***Beef and Dairy Cattle***.
 <!--
 **ojedarojas/ojedarojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
